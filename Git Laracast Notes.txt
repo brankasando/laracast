@@ -1,0 +1,15 @@
+echo "Hello World" > index.txt - da se ispise Hello World i napravi fajl index
+cat index.txt - da se ispise u cmd-u sadrzaj iz index.txt
+
+ls -ls -> da pokaze sve fajlove u direktorijumu, pa i sakrivene
+
+rm -rf .git - da izbrisemo trag o gitu nad nekim folderom
+
+git diff ime_fajl - razlika izmedju fajlova na lokalu, npr:
+ako sam isla na git init i git add, pa menjala nesto
+
+-ako sam napravila neku gresku u fajlu koji sam komitovala, ali nisam pushovala:
+git reset --hard id - znaci resetuj kod onako kako je izgledao na ovaj commit
+izbrsi sve promene koje sam napravila
+
+git reset --soft - resetuj kao sto je bilo, ali zadrzi i moje najnovnije promene
