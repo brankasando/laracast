@@ -13,3 +13,7 @@ git reset --hard id - znaci resetuj kod onako kako je izgledao na ovaj commit
 izbrsi sve promene koje sam napravila
 
 git reset --soft - resetuj kao sto je bilo, ali zadrzi i moje najnovnije promene
+
+git commit --amend 
+ovo je izmena
+ovo je tobro
