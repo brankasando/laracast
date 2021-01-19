@@ -20,5 +20,8 @@ git commit --amend - ne pravi novi komit nego izmeni prethodni
 
 $ git checkout -b feature-reporing -izlazimo iz sadasnje grane i kreiramo i ulazimo u novu feature-reporing
 
-this is now on anther branch
+-git checkout master - izlazi iz trenutne grane i ulazi u master
 
+-git merge branch 1 - merguje branch 1 na u trenutni
+
+testza drugi branch
