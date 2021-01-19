@@ -22,3 +22,5 @@ $ git checkout -b feature-reporing -izlazimo iz sadasnje grane i kreiramo i ulaz
 
 - git checkout master - izlazi iz trenutne grane i ulazi u master
 
+-git merge branch 1 - merguje branch 1 na u trenutni
+
