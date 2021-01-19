@@ -15,5 +15,7 @@ izbrsi sve promene koje sam napravila
 git reset --soft - resetuj kao sto je bilo, ali zadrzi i moje najnovnije promene
 
 git commit --amend - ne pravi novi komit nego izmeni prethodni
+
+---- branches ----
+
 izmena
-test
