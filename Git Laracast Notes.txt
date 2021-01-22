@@ -24,4 +24,10 @@ $ git checkout -b feature-reporing -izlazimo iz sadasnje grane i kreiramo i ulaz
 
 -git merge branch 1 - merguje branch 1 u trenutni
 
-testza drugi branch
+----- connect to GITHUB -----
+
+git remote add origin https://github.com/brankasando/laracast.git
+git push -u origin master ---> ovo sve samo prvi put kada linkujem moj folder sa githubom
+kad jednom ovo uradim, posle je dovoljno sam git push
+
+----- rebasing ----
